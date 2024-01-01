@@ -1,0 +1,12 @@
+
+
+****** Tables -> 
+
+
+# customer details - email-id / username , password , name , image , phone number , address , identity card - adhaar card / pan card / license / passport . 
+
+# subscription details - plan , duration , price .
+
+# collection details - pick up - timing , date , address , status .
+
+# payment details -

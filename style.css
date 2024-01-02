@@ -1,0 +1,75 @@
+
+
+/* basic */
+
+
+/* navbar  */
+ 
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 2px 0px silver; 
+    margin: 0px; 
+    height: 50px; 
+}
+
+.logo{
+    display: flex;
+}
+
+.logo img{
+    width: 50px;
+    height: 50px;
+}
+
+.logo-name{
+    padding: 10px 0 10px 5px;
+    font-size: larger;
+    color: green;
+}
+
+.navbar-details{
+    display: flex;
+    gap: 75px;
+    padding: 10px;
+    font-size: larger;
+    font-weight: lighter;
+}
+
+/* landing page */
+
+#landing-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image img{
+    width: 700px;  
+    height: 450px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 2px silver; 
+}
+
+.desc{ 
+    
+    font-size: large;
+    font-weight: lighter;
+}
+
+.button{
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:white;
+    border: 2px solid lightgreen;
+    border-radius: 7.5px;
+    box-shadow: 2px 2px 2px silver;
+    font-size: medium;
+    color: lightgreen;  
+}
+
+/* footer */

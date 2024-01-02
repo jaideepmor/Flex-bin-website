@@ -34,6 +34,7 @@
     padding: 10px;
     font-size: larger;
     font-weight: lighter;
+    font-family: cursive; 
 }
 
 /* landing page */
@@ -48,20 +49,20 @@
 .image img{
     width: 700px;  
     height: 450px;
-    margin-top: 35px;
-    margin-bottom: 20px;
+    margin-top: 25px;
+    margin-bottom: 10px;
     box-shadow: 2px 2px 2px silver; 
 }
 
 .desc{ 
-    
     font-size: large;
     font-weight: lighter;
+    font-family: cursive;
 }
 
 .button{
-    width: 100px;
-    height: 40px;
+    width: 125px;
+    height: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
     background-color:white;
